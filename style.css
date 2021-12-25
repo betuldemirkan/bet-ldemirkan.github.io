@@ -1,0 +1,25 @@
+
+.galeri{
+    background-color: #b5b897;
+}
+
+.figure:hover{
+    opacity: 0.8;
+}
+
+.figure img{
+    width: 300px;
+    height: 200px;
+    border: white;
+    border-style:dashed
+}
+
+.iletisim{
+    background: rgba(0,0,0, .6);
+    width: auto;
+    height: auto;
+    color:white;
+    padding: 20px;
+}
+
+
